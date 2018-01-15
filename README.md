@@ -8,9 +8,9 @@ Since then I've been trying to bring together a content structure that tries to 
 
 Each Fabrication technique has four pages,
 
-**1. How it works?** (Explain the process)
-**2. Machine Details** (Explain a bit about the machine, and capabilities)
-**3. A DIY Example** (An easy example which explains all the steps)
+**1. How it works?** (Explain the process)  
+**2. Machine Details** (Explain a bit about the machine, and capabilities)  
+**3. A DIY Example** (An easy example which explains all the steps)  
 **4. Fabrication Possibilities** (What all can be made with this fabrication technique)
 
 I have tried to keep the technicalities to a minimum, only explaining what a person needs to know about the fabrication technique and expand his mind to the possibilites it offers.

@@ -1,5 +1,4 @@
 # FablabHandbook
-This book is written in such a way that it can be used by people who are just begining to use the fablab.
 
 People who come to a Fab lab for the first time have similar questions. Like, how does this machine work? What is the process? What is the input file? 
 

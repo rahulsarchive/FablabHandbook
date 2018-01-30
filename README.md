@@ -16,7 +16,7 @@ Each Fabrication technique has four pages,
 I have tried to keep the technicalities to a minimum, only explaining what a person needs to know about the fabrication technique and expand his mind to the possibilites it offers.
 
 ### TODO
-Make a platform independent version of Handbook. My aim being to create a framework with all the layout built in (like a bootstrap theme), so more people can contribute to it.
+Make a platform independent version of Handbook. The aim being to create a framework with all the layout built in (like a bootstrap theme), so more people can contribute to it.
 
 This version of the hanbook is designed to be an ebook or print focued on Fablab Kerala. In the next version, I'm hoping that more people would contribute and we can create a universal framework that any lab can use to make handbooks of their own or contribute to a single source.
 
